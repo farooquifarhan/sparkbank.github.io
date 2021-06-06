@@ -51,8 +51,8 @@ text-align:left;
 #main
 {
 	text-align: center;
-background-color:#a3acadc9;
-color:rgb(3, 3, 3);
+background-color:#0a0a0a;
+color:#fff;
 padding-top:5%;	
 }
 .container h1 img{
@@ -69,7 +69,7 @@ padding-top:5%;
  #features
  {
      text-align: center;
-	 padding: 10% 15%; background-image: url("bankbg4.jpg");
+	 padding: 10% 15%; background-image: url("background.jpg");
 	 background-position-y: 0%;
 	
  }
@@ -117,12 +117,9 @@ padding-top:5%;
 	align-content: center;
 	background-image:linear-gradient(to right,#0a0a0a,#0a0a0a)
 }
-#coloured-section{
-	te
-}
 /* Action*/
   #action{
-    background-image: url(back12.JPG);
+    background-image: url(image.jpg);
     padding: 7% 15%;
     text-align: center;
     line-height: 1.5;
